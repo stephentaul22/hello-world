@@ -1,4 +1,4 @@
 # hello-world
-First ever repository
+First repository
 
 Hi Github! I'm a cat haha
